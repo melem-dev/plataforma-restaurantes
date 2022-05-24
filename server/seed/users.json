@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4f05c47b",
+    "user": "public",
+    "password": "public123",
+    "roles": [],
+    "userType": 0
+  },
+  {
+    "user": "employee",
+    "password": "employee123",
+    "roles": ["0002"],
+    "id": "90a3bd26",
+    "userType": 1
+  },
+  {
+    "id": "4828e348",
+    "user": "admin",
+    "password": "admin123",
+    "roles": ["0001"],
+    "userType": 2
+  }
+]

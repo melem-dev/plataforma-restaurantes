@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(1, 7, 42, 0.863);
+}
+
+:root {
+  --amarelo: orange;
+  --cinza: #ccc;
+  --verde: rgb(113, 238, 113);
+  --vermelho: rgb(248, 141, 141);
+}

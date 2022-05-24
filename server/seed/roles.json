@@ -1,0 +1,4 @@
+{
+  "0001": ["rooms:orders"],
+  "0002": ["order:create", "order:update"]
+}

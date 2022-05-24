@@ -1,0 +1,17 @@
+[
+  {
+    "status": "open",
+    "total": 26,
+    "font": "pdv",
+    "items": ["0", "1"],
+    "table": "2",
+    "employee": "3"
+  },
+  {
+    "status": "closed",
+    "total": 26,
+    "font": "chatbot",
+    "items": ["2", "3"],
+    "client": "0"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.1.0"
+  },
+  "scripts":{
+    "minimal":"concurrently -k \"cd server && yarn dev\" \"cd public && yarn dev\" "
+  }
+}
